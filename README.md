@@ -1,4 +1,4 @@
-This is the TIPE project of Etienne LeDizes, Alan Danilo and Mathis Gontier Delaunay of 2019-2020.
+This is the TIPE project  of 2019-2020 of Etienne Le Dizes, Alan Danilo and Mathis Gontier Delaunay.
 
 The theme of the year was the Ocean.
 
